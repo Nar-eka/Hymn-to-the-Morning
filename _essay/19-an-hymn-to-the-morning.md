@@ -30,7 +30,7 @@ byline: Nareka
   But Oh! I feel his fervid beams too strong,
   And scarce begun, concludes th’ abortive song.
 </pre>
-## Critical Introduction to "To Maecenas"
+## Critical Introduction to "To An Hymn to the Morning"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
 
 ## To MAECENAS.
