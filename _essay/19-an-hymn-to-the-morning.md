@@ -12,7 +12,6 @@ inspiration and eloquence needed to describe the approaching dawn and its transi
 morning. This moment of artistic euphoria is short lived, as the speaker’s creative 
 connection to the natural world is dictated by the passage of time and thus interrupted when 
 the increasing intensity of the sun’s rays, touches the speaker’s skin.
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“An Hymn to the Morning” stands out as a unique addition
 to Poems on Various Subjects due to its use of imagery that highlights the beauty of nature and its
 positive effects on the human constitution. The title suggests a more
@@ -38,7 +37,19 @@ the individual human soul” instead of how the collective of humanity could sha
 natural world for itself (Buzzard LIII). Which can be seen further along in the poem, when 
 the speaker sitting under the shade of trees and says that the trees display their “verdant 
 gloom . . . / [t]o shield [their] poet from the burning day” (lines 11, 12). 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another aspect of Romantic era literary tradition that Wheatley Peters makes use of in this poem, is the allusion to the
+gods and goddesses of Greek mythology. The poem uses these allusions to emphasize the liminality of the moment that the speaker is experiencing. By naming these
+mythological figures, the speaker invokes them, their powers and their related domains, which in turn places greater importance on this very brief time of emerging
+light. The poem directly names two goddesses, these being Calliope and Aurora, and only alludes to a handful of others. The “ye ever honour’d nine,” called upon in
+the first line of the poem, for instance refers to the nine Muses, nine sister goddesses from Greco-Roman religion and mythology (line 1). These nine deities are
+“[g]oddesses on whom poets and other creative artists, thinkers, and philosophers depended for their inspiration (March 322). Only one of the nine sisters is ever
+named in this poem, that being “Calliope (“Lovely Voice”)” and the goddess of “epic poetry . . . [said to be] the most important Muse because she had the tutelage
+of kings” (March 322). Bright Aurora,” mentioned in the last line of the first stanza is the “goddess of dawn.” (Wheatley line 4, March 95). The two goddesses
+Calliope and Aurora are called upon directly by the speaker, with the poem emphasizing their importance by italicizing their names. However, the remaining unmade
+gods of this poem, Apollo and Zephyrus, are alluded to through their godly attributes. Apollo is the god of music, prophecy and the sun, he is also the leader of
+the Muses (March 63, 322). Zephyrus is both “the West Wind and its god. He [is] also the son of [Eos], the Greek name for Aurora” (March 497, 95). Wheatley
+Peters’s decides to leave these male deities unnamed, instead alluding to them through their connections to the named goddesses directly involvement in the
+speaker’s pleasant experience. This points to her depth of knowledge of Greek myth as well as the importance of the goddesses within this brief moment.
 
 
 
