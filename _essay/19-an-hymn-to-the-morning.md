@@ -32,7 +32,14 @@ goddess of the dawn herself (Carretta 174). Upon receiving the muses’ blessing
 goes on to describe the progression of daylight. This begins with the “hail” or greeting, of 
 Aurora signified by the ‘death’ of “all the thousand” stars in the morning sky, and as the 
 “morn awakes, and wide extends her rays,” a gentle breeze rustles the tree leaves (Wheatley lines 5, 
-7).
+7). “An Hymn to the Morning,” in its depictions of the simple beauty and pleasures of being in 
+nature, also highlights the Romantic era’s focus on what “non-human nature had to offer to 
+the individual human soul” instead of how the collective of humanity could shape the 
+natural world for itself (Buzzard LIII). Which can be seen further along in the poem, when 
+the speaker sitting under the shade of trees and says that the trees display their “verdant 
+gloom . . . / [t]o shield [their] poet from the burning day” (lines 11, 12). 
+
+
 
 
 
