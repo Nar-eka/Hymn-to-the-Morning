@@ -4,7 +4,7 @@ order: 20
 byline: Nareka
 ---
 
-## Critical Introduction to "To An Hymn to the Morning"
+## Critical Introduction to "An Hymn to the Morning"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phillis Wheatley Peters’s poem, “An Hymn to the
 Morning,” published in her 1773 book, _Poems on Various Subjects, Religious and Moral_,
 depicts a scene where the speaker, a poet, calls upon the nine Muses to bless her with the 
