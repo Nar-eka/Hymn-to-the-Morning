@@ -5,15 +5,34 @@ byline: Nareka
 ---
 
 ## Critical Introduction to "To An Hymn to the Morning"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phillis Wheatley Peters’s poem, “An Hymn to the
+Morning,” published in her 1773 book, _Poems on Various Subjects, Religious and Moral_,
+depicts a scene where the speaker, a poet, calls upon the nine Muses to bless her with the 
+inspiration and eloquence needed to describe the approaching dawn and its transition into 
+morning. This moment of artistic euphoria is short lived, as the speaker’s creative 
+connection to the natural world is dictated by the passage of time and thus interrupted when 
+the increasing intensity of the sun’s rays, touches the speaker’s skin.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phillis Wheatley Peters’ poem, “An Hymn to the Morning,” published in her 1773 book, _Poems on Various Subjects, 
-Religious and Moral_, depicts a scene where the speaker gains inspiration from nature, after calling upon the nine Muses. The nine Muses being the sister goddesses 
-from Greco-Roman religion and mythology, fathered by “Zeus, king of the . . . gods, and Mnemosyne,” goddess of memory (Carretta 173-4). These nine sister
-goddesses, “Calliope (epic poetry), Clio (history), Euterpe (flute-playing), Terpsichore (lyric poetry and dancing, especially choral), Erato (lyric poetry), 
-Melpomene (tragedy), Thalia (comedy), Polyhymnia (hymns and pantomime), and Urania (astronomy),” provide inspiration within the “arts, [sciences], and 
-literature,” and are led by “Phoebus Apollo, god of the sun . . . music and poetry” (Carretta 174). This moment of artistic euphoria is short lived, however, as 
-the speaker’s creative connection to the natural world is dictated by the passage of time and thus interrupted when the increasing intensity of the sun’s rays, as 
-the morning arrives, touches the speaker’s skin. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“An Hymn to the Morning” stands out as a unique addition
+to Poems on Various Subjects due to its use of imagery that highlights the beauty of nature and its
+positive effects on the human constitution. The title suggests a more
+religious or biblically reverent tone, similar to that of many of the occasional poems 
+present within the collection. Instead, the poem makes use of a much more Romantic style that
+is meant to emphasize nature’s beauty and simplicity. Wheatley Peters’s poem follows the 
+emerging emphasis of “individual freedom,” a theme commonly explored by many writers within 
+English Romanticism (Buzzard LII). This Romantic era literary ideal revolves around the 
+“freeing of the individual mind and the individual soul,” it views the [s]ubjective 
+experience and the role that it play[s] in the individual’s response to and experience of 
+reality” at the forefront of artistic expression (LII). For “An Hymn to the Morning,” the 
+speaker is reflecting on the awe-inspiring, tranquil atmosphere that this brief window of 
+time is demanding of her. The speaker’s response to her reality is to first call upon the 
+nine muses to swiftly provide her with the inspiration needed to appease “bright Aurora [who] 
+now demands [the speaker’s] song” (Wheatley line 4). The mention of Aurora refers to the 
+goddess of the dawn herself (Carretta 174). Upon receiving the muses’ blessings, the speaker 
+goes on to describe the progression of daylight. This begins with the “hail” or greeting, of 
+Aurora signified by the ‘death’ of “all the thousand” stars in the morning sky, and as the 
+“morn awakes, and wide extends her rays,” a gentle breeze rustles the tree leaves (lines 5, 
+7).
 
 
 
