@@ -12,6 +12,7 @@ inspiration and eloquence needed to describe the approaching dawn and its transi
 morning. This moment of artistic euphoria is short lived, as the speaker’s creative 
 connection to the natural world is dictated by the passage of time and thus interrupted when 
 the increasing intensity of the sun’s rays, touches the speaker’s skin.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“An Hymn to the Morning” stands out as a unique addition
 to Poems on Various Subjects due to its use of imagery that highlights the beauty of nature and its
 positive effects on the human constitution. The title suggests a more
@@ -36,7 +37,8 @@ nature, also highlights the Romantic era’s focus on what “non-human nature h
 the individual human soul” instead of how the collective of humanity could shape the 
 natural world for itself (Buzzard LIII). Which can be seen further along in the poem, when 
 the speaker sitting under the shade of trees and says that the trees display their “verdant 
-gloom . . . / [t]o shield [their] poet from the burning day” (lines 11, 12). 
+gloom . . . / [t]o shield [their] poet from the burning day” (lines 11, 12).  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another aspect of Romantic era literary tradition that Wheatley Peters makes use of in this poem, is the allusion to the
 gods and goddesses of Greek mythology. The poem uses these allusions to emphasize the liminality of the moment that the speaker is experiencing. By naming these
 mythological figures, the speaker invokes them, their powers and their related domains, which in turn places greater importance on this very brief time of emerging
