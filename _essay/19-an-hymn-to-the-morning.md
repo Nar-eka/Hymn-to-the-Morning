@@ -64,20 +64,20 @@ In smoothest numbers pour the notes along,
 For bright _Aurora_{% include essay/feature/aside.html text="Goddess of Dawn." %} now demands my song.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Aurora_ hail, and all the thousand dies,  
-Which deck thy progress through the vaulted skies:  
+Which deck{% include essay/feature/aside.html text="deck (v.) 'to clothe in a striking or elegant manner.' Think 'deck the halls'" %} thy progress through the vaulted skies:  
 The mourn awakes, and wide extends her rays,  
-On ev'ry leaf the gentle zephyr plays;  
+On ev'ry leaf the gentle zephyr{% include essay/feature/aside.html text="Allusion to Zephyrus, the West Wind and its god." %} plays;  
 Harmonious lays the feather'd race resume,  
 Dart the bright eye, and shake the painted plume.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye shady groves, your verdant gloom display  
 To shield your poet from the burning day:  
-_Calliope_ awake the sacred lyre,  
+_Calliope_{% include essay/feature/aside.html text="Most important member of the nine Muses. Goddess of epic poetry." %} awake the sacred lyre,  
 While thy fair sisters fan the pleasing fire:  
 The bow'rs, the gales, the variegated skies  
 In all their pleasures in my bosom rise.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See in the east th' illustrious king of day!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See in the east th' illustrious king of day!{% include essay/feature/aside.html text="Allusion to Apollo, god of the Sun." %}  
 His rising radiance drives the shades away-  
 But Oh! I feel his fervid beams too strong,  
 And scarce begun, concludes th' abortive song.
