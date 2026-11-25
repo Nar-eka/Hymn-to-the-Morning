@@ -57,13 +57,11 @@ speaker’s pleasant experience. This points to her depth of knowledge of Greek 
 
 
 ## An Hymn to the Morning.
-MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATTEND my lays, ye ever honour'd nine, {% include essay/feature/aside.html text="An invocation of the nine Muses." %}  
 Assist my labours, and my strains refine;  
 In smoothest numbers pour the notes along,  
-For bright _Aurora_ now demands my song.  
+For bright _Aurora_{% include essay/feature/aside.html text="Goddess of Dawn." %} now demands my song.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Aurora_ hail, and all the thousand dies,  
 Which deck thy progress through the vaulted skies:  
