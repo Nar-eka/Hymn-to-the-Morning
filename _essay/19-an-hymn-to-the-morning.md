@@ -19,7 +19,7 @@ positive effects on the human constitution. The title suggests a more
 religious or biblically reverent tone, similar to that of many of the occasional poems 
 present within the collection. Instead, the poem makes use of a much more Romantic style that
 is meant to emphasize nature’s beauty and simplicity. Wheatley Peters’s poem follows the 
-emerging emphasis of “individual freedom,” a theme commonly explored by many writers within 
+emerging emphasis of “_individual_ freedom,” a theme commonly explored by many writers within 
 English Romanticism (Buzzard LII). This Romantic era literary ideal revolves around the 
 “freeing of the individual mind and the individual soul,” it views the [s]ubjective 
 experience and the role that it play[s] in the individual’s response to and experience of 
@@ -60,7 +60,7 @@ speaker’s pleasant experience. This points to her depth of knowledge of Greek 
 MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATTEND my lays, ye ever honour'd nine,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATTEND my lays, ye ever honour'd nine, {% include essay/feature/aside.html text="An invocation of the nine Muses." %}  
 Assist my labours, and my strains refine;  
 In smoothest numbers pour the notes along,  
 For bright _Aurora_ now demands my song.  
