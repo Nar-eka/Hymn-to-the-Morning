@@ -31,7 +31,7 @@ now demands [the speaker’s] song” (Wheatley line 4). The mention of Aurora r
 goddess of the dawn herself (Carretta 174). Upon receiving the muses’ blessings, the speaker 
 goes on to describe the progression of daylight. This begins with the “hail” or greeting, of 
 Aurora signified by the ‘death’ of “all the thousand” stars in the morning sky, and as the 
-“morn awakes, and wide extends her rays,” a gentle breeze rustles the tree leaves (lines 5, 
+“morn awakes, and wide extends her rays,” a gentle breeze rustles the tree leaves (Wheatley lines 5, 
 7).
 
 
