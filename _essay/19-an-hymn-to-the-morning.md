@@ -13,10 +13,6 @@ morning. This moment of artistic euphoria is short lived, as the speaker’s cre
 connection to the natural world is dictated by the passage of time and thus interrupted when 
 the increasing intensity of the sun’s rays, touches the speaker’s skin.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The linked video from the United States Library of Congress, simply titled ["Phillis Wheatley"](https://www.youtube.com/watch?v=TKvyjbIhnZ4) , goes into brief discussion on
-how the events of the American Revolution influenced some of Wheatley Peters' later writings. 
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“An Hymn to the Morning” stands out as a unique addition
 to Poems on Various Subjects due to its use of imagery that highlights the beauty of nature and its
 positive effects on the human constitution. The title suggests a more
@@ -99,6 +95,8 @@ would have encountered the political climate surrounding the American Revolution
 (“American Revolution”). While “An Hymn to the Morning” does not centre themes related to the
 political climate of the era. It is important to recognize that Wheatley Peters was living and
 writing in a time of war and political change.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The linked video from the United States Library of Congress, simply titled ["Phillis Wheatley"](https://www.youtube.com/watch?v=TKvyjbIhnZ4) , goes into brief discussion on how the events of the American Revolution influenced some of Wheatley Peters' later writings. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just as Wheatley Peters was inspired by the Romantic era
 and its emerging emphasis on the notion of “_individual_ freedom,” that is “the freeing of the
