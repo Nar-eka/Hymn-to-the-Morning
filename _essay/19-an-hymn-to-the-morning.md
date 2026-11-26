@@ -105,6 +105,8 @@ poets of the era opted to use similar wording to indicate their exploration of t
 
 A few recognizable examples include:
 
+* ["Ode: Intimations of Immortality"](https://dn710003.ca.archive.org/0/items/100_great_poems_2210_librivox/100greatpoems_032_cross_128kb.mp3) by [William Wordsworth](https://www.poetryfoundation.org/poems/45536/ode-intimations-of-immortality-from-recollections-of-early-childhood).
+
 * "Ode: Intimations of Immortality" by William Wordsworth.
 
 * "Hymn to Intellectual Beauty" by Percy Bysshe Shelley.
@@ -115,7 +117,17 @@ A few recognizable examples include:
 
 
 **Note:** The title of each poem contains a link to audio recordings created by volunteers on
-Librivox.org. The author's name will link to a digital copy of the poem from PoetryFoundation.org. 
+Librivox.org. The author's name will link to a digital copy of the poem from PoetryFoundation.org excerpt for "An Hymn to the Evening."
+
+
+
+
+
+
+
+
+
+
 
 
 
