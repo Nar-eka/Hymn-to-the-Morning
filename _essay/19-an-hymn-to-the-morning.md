@@ -139,7 +139,7 @@ Here are some Romantic Era images that convey the difference between _The Sublim
 * ![_Wanderer Above the Sea of Fog_](https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog#/media/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg) by
   Caspar David Friedrich.
 
-  *![_The Bard_](https://en.wikipedia.org/wiki/Romanticism#/media/File:Thomas_Jones_The_Bard_1774.jpg) by Thomas Jones.
+* ![_The Bard_](https://en.wikipedia.org/wiki/Romanticism#/media/File:Thomas_Jones_The_Bard_1774.jpg) by Thomas Jones.
 
   **_The Beautiful_**
   
