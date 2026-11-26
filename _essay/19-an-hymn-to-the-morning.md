@@ -105,19 +105,22 @@ poets of the era opted to use similar wording to indicate their exploration of t
 
 A few recognizable examples include:
 
+* ["An Hymn to the Evening"][Rowan's site] by [Phillis Wheatley Peters](https://librivox.org/poems-on-various-subjects-religious-and-moral-by-phillis-wheatley/).
+
 * ["Ode: Intimations of Immortality"](https://dn710003.ca.archive.org/0/items/100_great_poems_2210_librivox/100greatpoems_032_cross_128kb.mp3) by [William Wordsworth](https://www.poetryfoundation.org/poems/45536/ode-intimations-of-immortality-from-recollections-of-early-childhood).
 
-* "Ode: Intimations of Immortality" by William Wordsworth.
+* ["Hymn to Intellectual Beauty"](https://dn711000.ca.archive.org/0/items/shelleypoems_lw_librivox/shelleyselectedpoems_01_shelley.mp3) by [Percy Bysshe Shelley](https://www.poetryfoundation.org/poems/45123/hymn-to-intellectual-beauty).
 
-* "Hymn to Intellectual Beauty" by Percy Bysshe Shelley.
+* ["Ode to the West Wind"](https://dn721909.ca.archive.org/0/items/hundredbestenglishpoems_2009_librivox/bestenglishpoems_074_various_128kb.mp3) by [Percy Bysshe Shelley](https://www.poetryfoundation.org/poems/45134/ode-to-the-west-wind).
 
-* "Ode to the West Wind" by Percy Bysshe Shelley.
-
-* "Ode to a Nightingale" by John Keats.
+* ["Ode to a Nightingale"](https://dn710003.ca.archive.org/0/items/100_great_poems_2210_librivox/100greatpoems_058_cross_128kb.mp3) by [John Keats](https:/www.poetryfoundation.org/poems/44479/ode-to-a-nightingale).
 
 
 **Note:** The title of each poem contains a link to audio recordings created by volunteers on
-Librivox.org. The author's name will link to a digital copy of the poem from PoetryFoundation.org excerpt for "An Hymn to the Evening."
+[Librivox.org](https://librivox.org/). The author's name will link to a digital copy of the poem from
+[PoetryFoundation.org](https://www.poetryfoundation.org/), excerpt for ["An Hymn to the Evening"]. Instead, Phillis Wheatley Peters
+links to the _Phillis Wheatley_ page on Librivox.org, where recordings of _Poems on Various
+Subjects_ can be found.
 
 
 
@@ -130,6 +133,7 @@ Librivox.org. The author's name will link to a digital copy of the poem from Poe
 
 
 
+[Rowan's site]: INSERT URL PLEASE.
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
