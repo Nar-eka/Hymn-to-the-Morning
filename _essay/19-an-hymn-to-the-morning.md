@@ -112,7 +112,8 @@ A few recognizable examples include:
 
 * "Ode to a Nightingale" by John Keats.
 
-Note: The title of each poem contains a link to audio recordings created by volunteers on
+
+**Note:** The title of each poem contains a link to audio recordings created by volunteers on
 Librivox.org. The author's name will link to a digital copy of the poem from PoetryFoundation.org. 
 
 
