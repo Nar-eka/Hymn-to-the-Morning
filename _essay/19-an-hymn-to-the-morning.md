@@ -146,7 +146,11 @@ Here are some Romantic Era images that convey the difference between _The Sublim
 * ![_Sur la Montagne_](https://en.wikipedia.org/wiki/Louis_Janmot#/media/File:Louis_Janmot_-_Po%C3%A8me_de_l'%C3%A2me_14_-_Sur_la_Montagne.jpg) from Louis Janmont's series
   _The Poem of the Soul_.
 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In consulting _The Dictionary of Classical Mythology_, the other Muses are named Clio, meaning “Renown,” and her inspirational
+  domain is history; Euterpe, meaning “Gladness,” domain flute-playing; Thalia, meaning “Good Cheer,” domain comedy; Melpomene, meaning “Singer,” domain tragedy;
+  Terpsichore, meaning “Delighting in the Dance,” domain choral lyric and dancing; Erato, meaning “Loveliness,” domain lyric poetry; Polymnia meaning “Many Songs,” domain
+  hymns and pantomime; and Urania meaning “Heavenly One,” domain astronomy and, [a]ccording to the traditional account in Hesiod, the Muses were. . . the daughters of ZEUS
+  and the Titaness MNEMOSYNE (“Memory”)” (March 322).
 
 
 
