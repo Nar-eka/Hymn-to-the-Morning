@@ -119,7 +119,7 @@ A few recognizable examples include:
 
 **Note:** The title of each poem contains a link to audio recordings created by volunteers on
 [LibriVox.org](https://librivox.org/). The author's name will link to a digital copy of the poem from
-[PoetryFoundation.org](https://www.poetryfoundation.org/), excerpt for ["An Hymn to the Evening"]. Instead, Phillis Wheatley Peters
+[PoetryFoundation.org](https://www.poetryfoundation.org/), excerpt for ["An Hymn to the Evening"](link to Rowan's site). Instead, Phillis Wheatley Peters
 links to the _Phillis Wheatley_ page on LibriVox.org, where recordings of _Poems on Various
 Subjects_ can be found.
 
