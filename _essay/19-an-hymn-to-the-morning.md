@@ -123,7 +123,17 @@ A few recognizable examples include:
 links to the _Phillis Wheatley_ page on LibriVox.org, where recordings of _Poems on Various
 Subjects_ can be found.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Romantic literature also emphasises the concept of the Sublime and the Beautiful, through its uses of natural imagery. “An Hymn to
+the Morning,” uses its imagery to convey the beauty of nature, while its companion piece, “An Hymn to the Evening,” uses its imagery to convey the sublimity of the natural
+world. In comparing the sublime and the beautiful, Edmund Burke states that “sublime objects are vast in their dimensions, beautiful ones comparatively small . . . the
+[sublime] ought to be dark and gloomy: beauty should be light and delicate” (Burke 157).
 
+Here are some Romantic Era images that convey the difference between _The Sublime_ and _The Beautiful_.
+
+**_The Sublime_** 
+
+* ![_Wanderer Above the Sea of Fog_](https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog#/media/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg) by
+  Caspar David Friedrich.
 
 
 
