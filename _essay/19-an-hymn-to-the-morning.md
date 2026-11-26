@@ -13,6 +13,10 @@ morning. This moment of artistic euphoria is short lived, as the speaker’s cre
 connection to the natural world is dictated by the passage of time and thus interrupted when 
 the increasing intensity of the sun’s rays, touches the speaker’s skin.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The linked video from the United States Library of Congress, simply titled ["Phillis Wheatley"](https://www.youtube.com/watch?v=TKvyjbIhnZ4) , goes into brief discussion on
+how the events of the American Revolution influenced some of Wheatley Peters' later writings. 
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“An Hymn to the Morning” stands out as a unique addition
 to Poems on Various Subjects due to its use of imagery that highlights the beauty of nature and its
 positive effects on the human constitution. The title suggests a more
