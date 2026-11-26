@@ -3,6 +3,7 @@ title: An Hymn To The Morning.
 order: 20
 byline: Nareka
 ---
+
 ## Critical Introduction to "An Hymn to the Morning"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phillis Wheatley Peters’s poem, “An Hymn to the
 Morning,” published in her 1773 book, _Poems on Various Subjects, Religious and Moral_,
@@ -105,7 +106,7 @@ poets of the era opted to use similar wording to indicate their exploration of t
 
 A few recognizable examples include:
 
-* ["An Hymn to the Evening"][Rowan's site] by [Phillis Wheatley Peters](https://librivox.org/poems-on-various-subjects-religious-and-moral-by-phillis-wheatley/).
+* ["An Hymn to the Evening"](link to Rowan's site) by [Phillis Wheatley Peters](https://librivox.org/poems-on-various-subjects-religious-and-moral-by-phillis-wheatley/).
 
 * ["Ode: Intimations of Immortality"](https://dn710003.ca.archive.org/0/items/100_great_poems_2210_librivox/100greatpoems_032_cross_128kb.mp3) by [William Wordsworth](https://www.poetryfoundation.org/poems/45536/ode-intimations-of-immortality-from-recollections-of-early-childhood).
 
@@ -117,9 +118,9 @@ A few recognizable examples include:
 
 
 **Note:** The title of each poem contains a link to audio recordings created by volunteers on
-[Librivox.org](https://librivox.org/). The author's name will link to a digital copy of the poem from
+[LibriVox.org](https://librivox.org/). The author's name will link to a digital copy of the poem from
 [PoetryFoundation.org](https://www.poetryfoundation.org/), excerpt for ["An Hymn to the Evening"]. Instead, Phillis Wheatley Peters
-links to the _Phillis Wheatley_ page on Librivox.org, where recordings of _Poems on Various
+links to the _Phillis Wheatley_ page on LibriVox.org, where recordings of _Poems on Various
 Subjects_ can be found.
 
 
@@ -133,7 +134,7 @@ Subjects_ can be found.
 
 
 
-[Rowan's site]: INSERT URL PLEASE.
+
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
