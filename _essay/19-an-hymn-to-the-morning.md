@@ -86,8 +86,36 @@ And scarce begun, concludes th' abortive song.
 
 
 ## Contextual Accompaniment to "An Hymn to the Evening"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Romantic era is commonly understood to have 
+occurred from the late 1700s to the early 1800s, “[~] 1789 to 1837 was a time of great economic,
+social, political and cultural ferment” (Faflak, 2). For Wheatley Peters, living in New England, she
+would have encountered the political climate surrounding the American Revolution (1763-1787)
+(“American Revolution”). While “An Hymn to the Morning” does not centre themes related to the
+political climate of the era. It is important to recognize that Wheatley Peters was living and
+writing in a time of war and political change.
 
-This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just as Wheatley Peters was inspired by the Romantic era
+and its emerging emphasis on the notion of “_individual_ freedom,” that is “the freeing of the
+individual mind and the soul” (Buzzard LII). This freedom being the “[s]ubjective experience and
+the role that it play[s] in the individual’s response to and experience of reality” (LII). Wheatley
+Peters uses the words “An Hymn. . .” to indicate that her poem(s) would be exploring themes
+surrounding nature, its influence of people and a person’s individual experiences within it. Other
+poets of the era opted to use similar wording to indicate their exploration of these themes.
+
+A few recognizable examples include:
+
+* "Ode: Intimations of Immortality" by William Wordsworth.
+
+* "Hymn to Intellectual Beauty" by Percy Bysshe Shelley.
+
+* "Ode to the West Wind" by Percy Bysshe Shelley.
+
+* "Ode to a Nightingale" by John Keats.
+
+Note: The title of each poem contains a link to audio recordings created by volunteers on
+Librivox.org. The author's name will link to a digital copy of the poem from PoetryFoundation.org. 
+
+
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
