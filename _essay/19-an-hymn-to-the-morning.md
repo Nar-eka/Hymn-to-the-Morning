@@ -3,7 +3,6 @@ title: An Hymn To The Morning.
 order: 20
 byline: Nareka
 ---
-
 ## Critical Introduction to "An Hymn to the Morning"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phillis Wheatley Peters’s poem, “An Hymn to the
 Morning,” published in her 1773 book, _Poems on Various Subjects, Religious and Moral_,
@@ -84,6 +83,7 @@ And scarce begun, concludes th' abortive song.
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_55;pwp_56" %}
+
 
 ## Contextual Accompaniment to "An Hymn to the Evening"
 
