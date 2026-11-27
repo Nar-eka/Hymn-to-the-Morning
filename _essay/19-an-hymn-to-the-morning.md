@@ -72,7 +72,7 @@ Dart the bright eye, and shake the painted plume.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye shady groves, your verdant gloom display  
 To shield your poet from the burning day:  
-_Calliope_{% include essay/feature/aside.html text="Most important member of the nine Muses. Goddess of epic poetry." %} awake the sacred lyre{% include essay/feature/aside.html text="Allusion to Apollo." %},  
+_Calliope_{% include essay/feature/aside.html text="Most important member of the nine Muses. Goddess of epic poetry." %} awake the sacred lyre{% include essay/feature/aside.html text=<br> <br>"Allusion to Apollo." %},  
 While thy fair sisters fan the pleasing fire:  
 The bow'rs, the gales, the variegated skies  
 In all their pleasures in my bosom rise.
