@@ -132,7 +132,7 @@ the [sublime] ought to be dark and gloomy: beauty should be light and delicate�
 
 Here are some Romantic Era images that convey the difference between _The Sublime_ and _The Beautiful_.
 
-<br>**_The Sublime_** 
+**_The Sublime_** 
 
 * [_Wanderer Above the Sea of Fog_](https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog#/media/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg) by
   Caspar David Friedrich.
@@ -145,14 +145,12 @@ Here are some Romantic Era images that convey the difference between _The Sublim
   _The Poem of the Soul_.
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In consulting _The Dictionary of Classical Mythology_, the other Muses are named Clio, meaning “Renown,” and her inspirational
-domain is history; Euterpe, meaning “Gladness,” domain flute-playing; Thalia, meaning “Good Cheer,” domain comedy; Melpomene, meaning “Singer,” domain tragedy;  
-Terpsichore, meaning “Delighting in the Dance,” domain choral lyric and dancing; Erato, meaning “Loveliness,” domain lyric poetry; Polymnia meaning “Many Songs,” domain  
-hymns and pantomime; and Urania meaning “Heavenly One,” domain astronomy and, [a]ccording to the traditional account in Hesiod, the Muses were. . . the daughters of ZEUS  
+domain is history; Euterpe, meaning “Gladness,” domain flute-playing; Thalia, meaning “Good Cheer,” domain comedy; Melpomene, meaning “Singer,” domain tragedy; Terpsichore,
+meaning “Delighting in the Dance,” domain choral lyric and dancing; Erato, meaning “Loveliness,” domain lyric poetry; Polymnia meaning “Many Songs,” domain hymns and
+pantomime; and Urania meaning “Heavenly One,” domain astronomy and, [a]ccording to the traditional account in Hesiod, the Muses were. . . the daughters of ZEUS  
 and the Titaness MNEMOSYNE (“Memory”)” (March 322).
   
-<br>
-
-**_Images Depicting the Nine Muses and their Mother, Mnemosyne_**
+<br>**_Images Depicting the Nine Muses and their Mother, Mnemosyne_**
 
 1. [Calliope](https://en.wikipedia.org/wiki/Calliope#/media/File:Fresco_of_the_muse_Calliope,_from_the_Villa_Moregine.jpg).
 2. [Clio](https://en.wikipedia.org/wiki/Clio#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_03_clio.jpg).
