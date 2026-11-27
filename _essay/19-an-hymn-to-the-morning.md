@@ -172,7 +172,7 @@ Interior. 9 Mar. 2026, https://www.nps.gov/subjects/americanrevolution/timeline.
 
 “Apollo.” _Dictionary of Classic Mythology_. 2014, pp. 63 – 67. EBSCOhost, https://research-ebsco-com.ezproxy.kpu.ca:2443/c/mk6ktt/search/details/l2ylzsczbj/details?request-context=plink&db=nlebk.
 
-“Aurora.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 95. EBSCOhost, research.ebsco.com/plink/47ea13ef-fab6-3316-8f11-906da6cf74c2.
+“Aurora.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 95. EBSCOhost, [research.ebsco.com/plink/47ea13ef-fab6-3316-8f11-906da6cf74c2](https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink).
 
 Burke, Edmund. _A Philosophical Inquiry into the Origin of Our Ideas of the Sublime and Beautiful: With an Introductory Discourse Concerning Taste_. Harper & Brothers, 1871, https://www.google.ca/books/edition/A_Philosophical_Inquiry_Into_the_Origin/xZfgxgsdbqUC?hl=en&gbpv=0. 
 
