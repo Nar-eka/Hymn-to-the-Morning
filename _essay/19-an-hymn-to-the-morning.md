@@ -187,10 +187,6 @@ Faflak, Joel. “Historical Context.” _The Romanticism Handbook_, edited by Su
 
 “Muses.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 322-3. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
 
-
----
 “Zephyrus.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 497. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
-
-
 
 ---
