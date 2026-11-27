@@ -168,15 +168,23 @@ and the Titaness MNEMOSYNE (“Memory”)” (March 322).
 
 “American Revolution: Timeline of the Revolution.” _National Park Service_, U. S. Department of the
 Interior. 9 Mar. 2026, https://www.nps.gov/subjects/americanrevolution/timeline.htm.
+
 “Apollo.” _Dictionary of Classic Mythology_. 2014, pp. 63 – 67. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
+
 “Aurora.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 95. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
-Burke, Edmund. _A Philosophical Inquiry into the Origin of Our Ideas of the Sublime and Beautiful: With an Introductory Discourse Concerning Taste_. Harper & Brothers, 1871, https://www.google.ca/books/edition/A_Philosophical_Inquiry_Into_the_Origin/xZfgxgsdbqUC?hl=en&gbpv=0. 
+
+Burke, Edmund. _A Philosophical Inquiry into the Origin of Our Ideas of the Sublime and Beautiful: With an Introductory Discourse Concerning Taste_. Harper & Brothers, 1871, https://www.google.ca/books/edition/A_Philosophical_Inquiry_Into_the_Origin/xZfgxgsdbqUC?hl=en&gbpv=0.
+
 Buzzard, Laura, and Joseph Black et al., editors. Romantic Poetry and the Romantic Age. The _Broadview Anthology of Romantic Poetry_, Broadview Press, 2016, pp. XXXVII-LXV.
-“deck.” _Merriam-Webster_. https://www.merriam-webster.com/dictionary/deck.  
+“deck.” _Merriam-Webster_. https://www.merriam-webster.com/dictionary/deck.
+
 “Eos.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 176. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
+
 Faflak, Joel. “Historical Context.” _The Romanticism Handbook_, edited by Sue Chaplin and Joel Faflak, Continuum International, 2011, pp. 1-13.
-“hail.” _Merriam-Webster_. https://www.merriam-webster.com/dictionary/hail. 
+“hail.” _Merriam-Webster_. https://www.merriam-webster.com/dictionary/hail.
+
 “Muses.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 322-3. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
+
 “Zephyrus.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 497. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
 
 ---
