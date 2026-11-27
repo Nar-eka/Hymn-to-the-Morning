@@ -63,8 +63,10 @@ Assist my labours, and my strains refine;
 In smoothest numbers pour the notes along,  
 For bright _Aurora_{% include essay/feature/aside.html text="Goddess of Dawn." %} now demands my song.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Aurora_ hail, and all the thousand dies,  
-Which deck{% include essay/feature/aside.html text="deck (v.) 'to clothe in a striking or elegant manner.' Think 'deck the halls'" %} thy progress through the vaulted skies:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Aurora_ hail{% include essay/feature/aside.html text="hail (v.) to greet with enthusiastic approval, to greet or summon by calling" %}, and
+all the thousand dies,  
+Which deck{% include essay/feature/aside.html text="deck (v.) 'to clothe in a striking or elegant manner.' Think 'deck the halls'" %} thy progress through the vaulted
+skies:  
 The mourn awakes, and wide extends her rays,  
 On ev'ry leaf the gentle zephyr{% include essay/feature/aside.html text="Allusion to Zephyrus, the West Wind and its god." %} plays;  
 Harmonious lays the feather'd race resume,  
@@ -168,6 +170,8 @@ Here are some Romantic Era images that convey the difference between _The Sublim
 
 
 
+
+Works Cited
 
 
 
