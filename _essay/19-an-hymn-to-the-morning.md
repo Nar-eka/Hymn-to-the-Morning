@@ -54,8 +54,6 @@ Peters’s decides to leave these male deities unnamed, instead alluding to them
 speaker’s pleasant experience. This points to her depth of knowledge of Greek myth as well as the importance of the goddesses within this brief moment.
 
 
-
-
 ## An Hymn to the Morning.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATTEND my lays, ye ever honour'd nine, {% include essay/feature/aside.html text="An invocation of the nine Muses." %}  
@@ -127,14 +125,14 @@ A few recognizable examples include:
 links to the _Phillis Wheatley_ page on LibriVox.org, where recordings of _Poems on Various
 Subjects_ can be found.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Romantic literature also emphasises the concept of the Sublime and the Beautiful, through its uses of natural imagery. “An Hymn to
-the Morning,” uses its imagery to convey the beauty of nature, while its companion piece, “An Hymn to the Evening,” uses its imagery to convey the sublimity of the natural
-world. In comparing the sublime and the beautiful, Edmund Burke states that “sublime objects are vast in their dimensions, beautiful ones comparatively small . . . the
-[sublime] ought to be dark and gloomy: beauty should be light and delicate” (Burke 157).
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Romantic literature also emphasises the concept of the Sublime and the Beautiful, through its uses of natural imagery. “An
+Hymn to the Morning,” uses its imagery to convey the beauty of nature, while its companion piece, “An Hymn to the Evening,” uses its imagery to convey the sublimity of the
+natural world. In comparing the sublime and the beautiful, Edmund Burke states that “sublime objects are vast in their dimensions, beautiful ones comparatively small . . .
+the [sublime] ought to be dark and gloomy: beauty should be light and delicate” (Burke 157).
 
 Here are some Romantic Era images that convey the difference between _The Sublime_ and _The Beautiful_.
 
-**_The Sublime_** 
+<br>**_The Sublime_** 
 
 * [_Wanderer Above the Sea of Fog_](https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog#/media/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg) by
   Caspar David Friedrich.
@@ -146,13 +144,13 @@ Here are some Romantic Era images that convey the difference between _The Sublim
 * [_Sur la Montagne_](https://en.wikipedia.org/wiki/Louis_Janmot#/media/File:Louis_Janmot_-_Po%C3%A8me_de_l'%C3%A2me_14_-_Sur_la_Montagne.jpg) from Louis Janmont's series
   _The Poem of the Soul_.
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In consulting _The Dictionary of Classical Mythology_, the other Muses are named Clio, meaning “Renown,” and her inspirational
-  domain is history; Euterpe, meaning “Gladness,” domain flute-playing; Thalia, meaning “Good Cheer,” domain comedy; Melpomene, meaning “Singer,” domain tragedy;
-  Terpsichore, meaning “Delighting in the Dance,” domain choral lyric and dancing; Erato, meaning “Loveliness,” domain lyric poetry; Polymnia meaning “Many Songs,” domain
-  hymns and pantomime; and Urania meaning “Heavenly One,” domain astronomy and, [a]ccording to the traditional account in Hesiod, the Muses were. . . the daughters of ZEUS
-  and the Titaness MNEMOSYNE (“Memory”)” (March 322).
-
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In consulting _The Dictionary of Classical Mythology_, the other Muses are named Clio, meaning “Renown,” and her inspirational
+domain is history; Euterpe, meaning “Gladness,” domain flute-playing; Thalia, meaning “Good Cheer,” domain comedy; Melpomene, meaning “Singer,” domain tragedy;  
+Terpsichore, meaning “Delighting in the Dance,” domain choral lyric and dancing; Erato, meaning “Loveliness,” domain lyric poetry; Polymnia meaning “Many Songs,” domain  
+hymns and pantomime; and Urania meaning “Heavenly One,” domain astronomy and, [a]ccording to the traditional account in Hesiod, the Muses were. . . the daughters of ZEUS  
+and the Titaness MNEMOSYNE (“Memory”)” (March 322).
   
+<br>
 
 **_Images Depicting the Nine Muses and their Mother, Mnemosyne_**
 
