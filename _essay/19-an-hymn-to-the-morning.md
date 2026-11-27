@@ -150,6 +150,21 @@ Here are some Romantic Era images that convey the difference between _The Sublim
   hymns and pantomime; and Urania meaning “Heavenly One,” domain astronomy and, [a]ccording to the traditional account in Hesiod, the Muses were. . . the daughters of ZEUS
   and the Titaness MNEMOSYNE (“Memory”)” (March 322).
 
+**_Images Depicting the Nine Muses and their Mother, Mnemosyne_**
+
+1. [Calliope](https://en.wikipedia.org/wiki/Calliope#/media/File:Fresco_of_the_muse_Calliope,_from_the_Villa_Moregine.jpg).
+2. [Clio](https://en.wikipedia.org/wiki/Clio#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_03_clio.jpg).
+3. [Euterpe](https://en.wikipedia.org/wiki/Euterpe#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_05_euterpe.jpg).
+4. [Thalia](https://en.wikipedia.org/wiki/Thalia_(Muse)#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_07_talia.jpg).
+5. [Melpomene](https://en.wikipedia.org/wiki/Melpomene#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_08_melpomene.jpg).
+6. [Terpsichore](https://en.wikipedia.org/wiki/Terpsichore#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_02_tersicore.jpg).
+7. [Erato](https://en.wikipedia.org/wiki/Erato#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_04_erato.jpg).
+8. [Polymnia](https://en.wikipedia.org/wiki/Polyhymnia#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_terzo_triclinio,_IV_stile,_epoca_neroniana,_03_figura.jpg).
+9. [Urania](https://en.wikipedia.org/wiki/Urania#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_06_urania.jpg).
+10. [Mnemosyne](https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mosa%C3%AFque_murale_Mn%C3%A9mosyne.jpg).  
+
+
+
 
 
 
