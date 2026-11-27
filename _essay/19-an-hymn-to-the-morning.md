@@ -150,6 +150,8 @@ Here are some Romantic Era images that convey the difference between _The Sublim
   hymns and pantomime; and Urania meaning “Heavenly One,” domain astronomy and, [a]ccording to the traditional account in Hesiod, the Muses were. . . the daughters of ZEUS
   and the Titaness MNEMOSYNE (“Memory”)” (March 322).
 
+  
+
 **_Images Depicting the Nine Muses and their Mother, Mnemosyne_**
 
 1. [Calliope](https://en.wikipedia.org/wiki/Calliope#/media/File:Fresco_of_the_muse_Calliope,_from_the_Villa_Moregine.jpg).
