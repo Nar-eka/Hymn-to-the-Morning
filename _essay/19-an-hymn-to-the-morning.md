@@ -176,6 +176,5 @@ Here are some Romantic Era images that convey the difference between _The Sublim
 
 
 
-{% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+
 ---
