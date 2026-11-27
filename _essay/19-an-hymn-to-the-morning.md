@@ -167,13 +167,28 @@ and the Titaness MNEMOSYNE (“Memory”)” (March 322).
 ---
 <br> Works Cited
 
+“American Revolution: Timeline of the Revolution.” _National Park Service_, U. S. Department of the
+Interior. 9 Mar. 2026, https://www.nps.gov/subjects/americanrevolution/timeline.htm.
 
+“Apollo.” _Dictionary of Classic Mythology_. 2014, pp. 63 – 67. EBSCOhost, https://research-ebsco-com.ezproxy.kpu.ca:2443/c/mk6ktt/search/details/l2ylzsczbj/details?request-context=plink&db=nlebk.
 
+“Aurora.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 95. EBSCOhost, research.ebsco.com/plink/47ea13ef-fab6-3316-8f11-906da6cf74c2.
 
+Burke, Edmund. _A Philosophical Inquiry into the Origin of Our Ideas of the Sublime and Beautiful: With an Introductory Discourse Concerning Taste_. Harper & Brothers, 1871, https://www.google.ca/books/edition/A_Philosophical_Inquiry_Into_the_Origin/xZfgxgsdbqUC?hl=en&gbpv=0. 
 
+Buzzard, Laura, and Joseph Black et al., editors. Romantic Poetry and the Romantic Age. The _Broadview Anthology of Romantic Poetry_, Broadview Press, 2016, pp. XXXVII-LXV.
 
+“deck.” _Merriam-Webster_. https://www.merriam-webster.com/dictionary/deck.  
 
+“Eos.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 176. EBSCOhost, research.ebsco.com/plink/47ea13ef-fab6-3316-8f11-906da6cf74c2.
 
+Faflak, Joel. “Historical Context.” _The Romanticism Handbook_, edited by Sue Chaplin and Joel Faflak, Continuum International, 2011, pp. 1-13.
+
+“hail.” _Merriam-Webster_. https://www.merriam-webster.com/dictionary/hail. 
+
+“Muses.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 322-3. EBSCOhost, research.ebsco.com/plink/47ea13ef-fab6-3316-8f11-906da6cf74c2.
+
+“Zephyrus.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 497. EBSCOhost, research.ebsco.com/plink/47ea13ef-fab6-3316-8f11-906da6cf74c2.
 
 
 
