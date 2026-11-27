@@ -63,16 +63,16 @@ For bright _Aurora_{% include essay/feature/aside.html text="Goddess of Dawn." %
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Aurora_ hail{% include essay/feature/aside.html text="hail (v.) to greet with enthusiastic approval, to greet or summon by calling" %}, and
 all the thousand dies,  
-Which deck{% include essay/feature/aside.html text=<br>"deck (v.) 'to clothe in a striking or elegant manner.' Think 'deck the halls'" %} thy progress through the vaulted
+Which deck{% include essay/feature/aside.html text="deck (v.) 'to clothe in a striking or elegant manner.' Think 'deck the halls'" %} thy progress through the vaulted
 skies:  
 The mourn awakes, and wide extends her rays,  
-On ev'ry leaf the gentle zephyr{% include essay/feature/aside.html text=<br>"Allusion to Zephyrus, the West Wind and its god." %} plays;  
+On ev'ry leaf the gentle zephyr{% include essay/feature/aside.html text="Allusion to Zephyrus, the West Wind and its god." %} plays;  
 Harmonious lays the feather'd race resume,  
 Dart the bright eye, and shake the painted plume.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye shady groves, your verdant gloom display  
 To shield your poet from the burning day:  
-_Calliope_{% include essay/feature/aside.html text="Most important member of the nine Muses. Goddess of epic poetry." %} awake the sacred lyre{% include essay/feature/aside.html text=<br>"Allusion to Apollo." %},  
+_Calliope_{% include essay/feature/aside.html text="Most important member of the nine Muses. Goddess of epic poetry." %} awake the sacred lyre{% include essay/feature/aside.html text="Allusion to Apollo." %},  
 While thy fair sisters fan the pleasing fire:  
 The bow'rs, the gales, the variegated skies  
 In all their pleasures in my bosom rise.
@@ -164,7 +164,6 @@ and the Titaness MNEMOSYNE (“Memory”)” (March 322).
 10. [Mnemosyne](https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mosa%C3%AFque_murale_Mn%C3%A9mosyne.jpg). 
 
 
----
 <br> Works Cited
 
 “American Revolution: Timeline of the Revolution.” _National Park Service_, U. S. Department of the
@@ -188,6 +187,8 @@ Faflak, Joel. “Historical Context.” _The Romanticism Handbook_, edited by Su
 
 “Muses.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 322-3. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
 
+
+---
 “Zephyrus.” _Dictionary of Classic Mythology_, Oxbow Books, 2014, pp. 497. _EBSCOhost_, https://research.ebsco.com/c/mk6ktt/ebook-viewer/epub/l2ylzsczbj?route=details&link_origin=none&sid=ebsco%3Aplink.
 
 
