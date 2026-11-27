@@ -165,13 +165,11 @@ Here are some Romantic Era images that convey the difference between _The Sublim
 7. [Erato](https://en.wikipedia.org/wiki/Erato#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_04_erato.jpg).
 8. [Polymnia](https://en.wikipedia.org/wiki/Polyhymnia#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_terzo_triclinio,_IV_stile,_epoca_neroniana,_03_figura.jpg).
 9. [Urania](https://en.wikipedia.org/wiki/Urania#/media/File:Palestra_grande_di_pompei,_affreschi_di_Moregine,_primo_triclinio_,_IV_stile,_epoca_neroniana,_le_muse_06_urania.jpg).
-10. [Mnemosyne](https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mosa%C3%AFque_murale_Mn%C3%A9mosyne.jpg).  
+10. [Mnemosyne](https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mosa%C3%AFque_murale_Mn%C3%A9mosyne.jpg). 
 
 
 
-
-
-Works Cited
+<br> Works Cited
 
 
 
