@@ -4,7 +4,7 @@ order: 20
 byline: Nareka
 ---
 
-## Critical Introduction to "An HYMN to the Morning"
+## Critical Introduction to "An Hymn to the Morning"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phillis Wheatley Peters’s poem, “An Hymn to the
 Morning,” published in her 1773 book, _Poems on Various Subjects, Religious and Moral_,
 depicts a scene where the speaker, a poet, calls upon the nine Muses to bless her with the 
@@ -54,7 +54,7 @@ Peters’s decides to leave these male deities unnamed, instead alluding to them
 speaker’s pleasant experience. This points to her depth of knowledge of Greek myth as well as the importance of the goddesses within this brief moment.
 
 
-## An Hymn to the Morning.
+## An HYMN to the MORNING.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATTEND my lays, ye ever honour'd nine, {% include essay/feature/aside.html text="An invocation of the nine Muses." %}  
 Assist my labours, and my strains refine;  
