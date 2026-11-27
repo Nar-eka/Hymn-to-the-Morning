@@ -66,7 +66,7 @@ all the thousand dies,
 Which deck{% include essay/feature/aside.html text="deck (v.) 'to clothe in a striking or elegant manner.' Think 'deck the halls'" %} thy progress through the vaulted
 skies:  
 The mourn awakes, and wide extends her rays,  
-On ev'ry leaf the gentle zephyr{% include essay/feature/aside.html text="Allusion to Zephyrus, the West Wind and its god." %} plays;  
+On ev'ry leaf the gentle zephyr{<br>% include essay/feature/aside.html text="Allusion to Zephyrus, the West Wind and its god." %} plays;  
 Harmonious lays the feather'd race resume,  
 Dart the bright eye, and shake the painted plume.
 
@@ -166,7 +166,7 @@ and the Titaness MNEMOSYNE (“Memory”)” (March 322).
 10. [Mnemosyne](https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mosa%C3%AFque_murale_Mn%C3%A9mosyne.jpg). 
 
 
-
+---
 <br> Works Cited
 
 
